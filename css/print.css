@@ -1,0 +1,44 @@
+.page-outer {
+	min-width: 0;
+	max-width: none;
+	width: auto;
+	border: none;
+	margin: 0;
+}
+.page-inner {
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+.primary-nav {
+	display: none !important;
+}
+.top-info-b {
+	margin: 0;
+}
+.bio-center {
+	width: 395px;
+}
+.bio-left {
+	overflow: auto;
+}
+.media-cat.game-cat, .media-cat.doc-cat {
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+}
+.book-cat .media-ico-b {
+	float: none;
+}
+.book-cat .font-small {
+	margin-left: 0;
+	width: auto;
+}
+.contacts-b.contacts-left {
+	float: left;
+	margin-left: 17.3%;
+}
+.contacts-b.contacts-right {
+	float: right;
+	margin-right: 15.5%;
+}

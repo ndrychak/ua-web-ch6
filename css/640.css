@@ -1,0 +1,55 @@
+/* bio */
+.bio-center {
+	max-width: 290px;
+	margin-right: 25px;
+	float: left;
+}
+.bio-left {
+	clear: left;
+}
+
+/* event widget */
+.event-widget .event-info {
+	clear: none;
+	margin-left: 60%;
+}
+
+/* complex title */
+.complex-title {
+	margin: 0 auto;
+	width: 440px;
+}
+
+/* media section */
+.media-cat.game-cat {
+	float: none;
+	margin: 0 auto;
+	width: 57%;
+}
+.media-cat.book-cat {
+	float: none;
+	margin: 0 auto;
+}
+.doc-cat .media-item:first-child {
+	margin-left: 5.7%;
+}
+.doc-cat .media-item {
+	float: left;
+	margin-left: 9.7%;
+	margin-bottom: 0;
+	width: 24%;
+}
+.media-ico-b {
+	float: none;
+	margin: 0;
+}
+.game-cat .media-ico-b {
+	float: left;
+	margin-right: 20px;
+}
+
+/* partners section */
+.partners-section .partners-list li {
+	margin: 0 5.4% 34px 7.7%;
+	width: 19.5%;
+}
